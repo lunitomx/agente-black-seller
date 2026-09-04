@@ -1,6 +1,6 @@
 version: '1.0'
 project:
-  name: Alex Bobadilla black seller
+  name: agente-black-seller
   project_type: greenfield
   code_file_count: 0
   detected_at: '2026-09-04T17:59:32.933690Z'
@@ -14,3 +14,7 @@ agents:
   - claude
   - codex
 protocol_compliance: []
+graph:
+  document_sources:
+    - governance/*.md
+    - governance/architecture/*.md

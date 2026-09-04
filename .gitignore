@@ -8,3 +8,11 @@
 # Machine-local generated config (contains absolute paths to this machine)
 .codex/config.toml
 plugins/raise-governance/.mcp.json
+
+# RaiSE estado generado (derivado de `rai graph build` — no es fuente)
+.raise/rai/raise.db
+.raise/rai/personal/
+.raise/rai/memory/embeddings/
+.raise/cartridges/repo/
+.raise/cartridges/*/instances/gen-*/
+.raise/cartridges/*/instances/manifest.json
