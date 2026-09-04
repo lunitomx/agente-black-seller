@@ -1,0 +1,20 @@
+{
+  "name": "raise-governance",
+  "interface": {
+    "displayName": "RaiSE Governance"
+  },
+  "plugins": [
+    {
+      "name": "raise-governance",
+      "source": {
+        "source": "local",
+        "path": "./plugins/raise-governance"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

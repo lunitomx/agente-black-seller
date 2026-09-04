@@ -1,0 +1,7 @@
+{
+  "name": "raise-governance",
+  "version": "1.0.0",
+  "description": "RaiSE AI governance \u2014 pipelines, gates, patterns",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

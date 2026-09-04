@@ -1,0 +1,10 @@
+# RaiSE environment files
+.env
+!.env.example
+
+# macOS
+.DS_Store
+
+# Machine-local generated config (contains absolute paths to this machine)
+.codex/config.toml
+plugins/raise-governance/.mcp.json

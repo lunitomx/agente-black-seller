@@ -1,0 +1,16 @@
+version: '1.0'
+project:
+  name: Alex Bobadilla black seller
+  project_type: greenfield
+  code_file_count: 0
+  detected_at: '2026-09-04T17:59:32.933690Z'
+branches:
+  development: main
+  main: main
+ide:
+  type: claude
+agents:
+  types:
+  - claude
+  - codex
+protocol_compliance: []
