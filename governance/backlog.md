@@ -22,16 +22,26 @@
   descubribles todavia). Eso desbloquea E5, que ya no depende de nadie.
 - **El unico bloqueo vivo del proyecto es E1**, y es externo: la entrega del
   material del curso. E4 espera a E2, y E2 espera a E1.
+- **Alcance de v1: la clase, y nada mas (decision de Eduardo, 2026-09-05).** El
+  corpus es la sesion que Eduardo tomo con Alex. No se persiguen los libros, ni el
+  podcast, ni otras sesiones. Lo que la clase no cubra, el agente lo declara como
+  hueco y ahi se queda.
+- Consecuencia directa: las **tecnicas de cierre quedan fuera de v1**. Eduardo
+  confirmo que Alex las trata como *otro tema*, aparte de esta sesion. No bloquean
+  nada porque ya no son alcance.
 
 ## Decisiones Abiertas
 
 | ID | Decision | Estado | Impacto |
 |----|----------|--------|---------|
 | D3 | Granularidad del catalogo de skills | Abierta | Se resuelve al terminar E2, cuando se vea la forma real del metodo |
+| D4 | `modo 360`: transversal o skill suelta | Abierta | Define la forma de E4. El DRAFT recomienda transversal — cualquier skill corre "en modo 360" y entrega 18 alternativas antes de elegir. Pendiente de confirmar con Eduardo |
+
 
 ## Decisiones Cerradas
 
 | ID | Decision | Resuelta | Resolucion |
 |----|----------|----------|------------|
 | D1 | Stack de implementacion del validador de conformidad | 2026-09-05 | **Python 3, sin dependencias.** Implementado en `tools/validate-plugin.py`; cubre must-spec-001..004 y should-spec-005 y sale con codigo 1, apto como gate de CI |
+| D5 | Alcance del corpus de v1 | 2026-09-05 | **Solo la clase.** El conocimiento del agente es la sesion que Eduardo tomo con Alex. No se incorporan libros, podcast ni otras sesiones; lo que la clase no cubra se declara hueco. Cierra el debate sobre buscar una segunda fuente para el cierre |
 | D2 | Publicabilidad del corpus en repositorio publico | 2026-09-04 | **Publicable.** El curso se impartio en abierto y Alex Bobadilla permite subirlo y compartirlo, segun confirmacion de Eduardo. Satisface `must-security-002` |

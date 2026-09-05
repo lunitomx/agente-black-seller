@@ -83,7 +83,13 @@ La sesion y las fuentes publicas contienen **dos triangulos distintos**:
 El primero ordena el negocio, el segundo ordena a la persona. Confundirlos romperia
 la fidelidad de dos skills a la vez.
 
-> **A verificar con Alex:** que sean efectivamente dos y no uno renombrado.
+> **CONFIRMADO por Eduardo el 2026-09-05** (asistio al curso): son **dos triangulos
+> distintos y complementarios**, no uno renombrado. *Mercado — producto — tu* es el
+> del crecimiento; el otro describe **como debe estar un vendedor** para poder
+> operar el primero. No se sustituyen: se necesitan.
+>
+> Confirmacion verbal del asistente, pendiente de respaldo en `corpus/` cuando la
+> sesion se ingiera.
 
 ## La tesis central
 
@@ -139,13 +145,21 @@ y no una invencion nuestra. Cada skill entrega un artefacto usable
 
 | Hueco | Estado | Impacto |
 |-------|--------|---------|
-| Tecnicas de cierre, paso a paso | Anunciadas en la sesion, no desarrolladas | Dominio 3 incompleto |
+| Tecnicas de cierre, paso a paso | **Fuera de alcance en v1.** Alex las trata como *otro tema*, aparte de esta sesion — confirmado por Eduardo el 2026-09-05 | Dominio 3 queda incompleto a proposito. El agente lo declara como hueco; no se busca otra fuente |
 | Procedimiento de objeciones | Solo el principio (no negociar precio) | Dominio 3 |
 | Anclajes y programacion neurolinguistica | Mencionados como necesarios | Dominio 3 |
-| Sus libros | `Guia del vendedor profesional` (2021) y los otros dos | Fuente primaria no consultada — probable origen del detalle que falta |
-| Podcast `El mundo de las ventas` | No consultado | Fuente viva y extensa |
+| Sus libros | `Guia del vendedor profesional` (2021) y los otros dos | **Fuera de alcance en v1.** Referencia de donde vive el detalle que falta |
+| Podcast `El mundo de las ventas` | **Fuera de alcance en v1.** No consultado | Fuente viva y extensa, para mas adelante |
 
 Filosofia 360 sale de la lista de huecos: **resuelta el 2026-09-05.**
+
+> **Alcance de v1 (Eduardo, 2026-09-05): solo la clase.** El corpus es la sesion
+> que Eduardo tomo con Alex. Los libros, el podcast y otras sesiones **no** se
+> persiguen. Por lo tanto las tecnicas de cierre —que Alex trata como otro tema—
+> quedan **fuera de alcance**, no pendientes: no bloquean E2 ni E4, y el agente
+> las declara como hueco cuando se las pidan. Las filas de libros y podcast de la
+> tabla de arriba quedan como referencia de donde estaria el material, no como
+> trabajo por hacer.
 
 ## Nota de fidelidad
 
