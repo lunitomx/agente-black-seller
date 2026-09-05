@@ -12,6 +12,7 @@ plugins/raise-governance/.mcp.json
 # RaiSE estado generado (derivado de `rai graph build` — no es fuente)
 .raise/rai/raise.db
 .raise/rai/personal/
+.raise/rai/sessions/
 .raise/rai/memory/embeddings/
 .raise/cartridges/repo/
 .raise/cartridges/*/instances/gen-*/
