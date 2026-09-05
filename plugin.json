@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "agente-black-seller",
+  "version": "0.1.0",
+  "description": "Skills de venta destiladas de la filosofia Black Seller de Alex Bobadilla, para Claude Code y Codex.",
+  "author": {
+    "name": "Eduardo Munoz Luna",
+    "url": "https://github.com/lunitomx"
+  },
+  "repository": "https://github.com/lunitomx/agente-black-seller",
+  "keywords": [
+    "ventas",
+    "black-seller",
+    "alex-bobadilla",
+    "negociacion",
+    "prospeccion",
+    "espanol"
+  ]
+}
